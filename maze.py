@@ -29,12 +29,13 @@ class Maze:
         # except IndexError:
         #     print("Index out of bounds")
 
-maze_obj = [
-    [0, 0, 1, 1],
-    [1, 0, 1, 1],
-    [1, 0, 0, 1],
-    [1, 1, 0, 1]
-]
+#Old dead code
+# maze_obj = [
+#     [0, 0, 1, 1],
+#     [1, 0, 1, 1],
+#     [1, 0, 0, 1],
+#     [1, 1, 0, 1]
+# ]
 
-maze = Maze(maze_obj)
+# maze = Maze(maze_obj)
 # print(maze.neighbor(2, 1))
